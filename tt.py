@@ -11,3 +11,6 @@ with co1 :
 with co2:
     st.title("here is column2 title")
     st.checkbox("this is checkbox1 in co2")
+
+co1.subheader("I am solumn1 subheader")
+co2.checkbox("this i checkbox2 in co2")
