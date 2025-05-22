@@ -13,6 +13,8 @@ with co1 :
         st.write("hello")
     with tab2:
         st.write("hi")
+    with tab2:
+        st.write("help")
 
 with co2:
     st.title("here is column2 title")
