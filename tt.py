@@ -16,9 +16,12 @@ with co1 :
     with tab2:
         st.write("help")
 
+
 with co2:
     st.title("here is column2 title")
     st.checkbox("this is checkbox1 in co2")
+    st.checkbox("this is checkbox2 in co2")
+    st.checkbox("this is checkbox3 in co2")
 
 co1.subheader("I am solumn1 subheader")
 co2.checkbox("this i checkbox2 in co2")
