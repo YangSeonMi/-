@@ -18,6 +18,8 @@ with co1 :
         st.write("help")
     with tab3:
         st.write("I'm want go home")
+    with tab3:
+        st.write("LOL")
 
 
 with co2:
@@ -25,6 +27,7 @@ with co2:
     st.checkbox("this is checkbox1 in co2")
     st.checkbox("this is checkbox2 in co2")
     st.checkbox("this is checkbox3 in co2")
+    st.button("I'm want go home")
 
 co1.subheader("I am solumn1 subheader")
 co2.checkbox("this i checkbox2 in co2")
